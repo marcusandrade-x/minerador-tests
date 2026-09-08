@@ -1,0 +1,11 @@
+project_name,descricao,url,num_tests,num_fixtures,loc_tests,arquivos_tests,loc_producao,arquivos_producao,loc_projeto_total
+fastapi,Sem descrição,https://github.com/fastapi/fastapi,2310,199,68330,505,21050,443,89380
+flask,Sem descrição,https://github.com/pallets/flask,397,23,5665,30,4753,50,10418
+requests,"A simple, yet elegant, HTTP library.",https://github.com/psf/requests,347,7,3797,10,3932,26,7729
+responses,A utility for mocking out the Python Requests library.,https://github.com/getsentry/responses,192,2,3610,5,1426,5,5036
+freezegun,Let your Python tests travel through time,https://github.com/spulec/freezegun,132,3,1316,14,871,9,2187
+strawberry,A GraphQL library for Python that leverages type annotations 🍓,https://github.com/strawberry-graphql/strawberry,1754,54,42532,308,28441,318,70973
+pytest-bdd,BDD library for the pytest runner,https://github.com/pytest-dev/pytest-bdd,120,1,3046,36,1914,20,4960
+mutmut,Mutation testing system,https://github.com/boxed/mutmut,445,7,3752,36,4620,55,8372
+pytest-recording,A pytest plugin powered by VCR.py to record and replay HTTP traffic.,https://github.com/kiwicom/pytest-recording,60,14,564,6,375,9,939
+deepl-python,Official Python library for the DeepL language translation API.,https://github.com/DeepL/deepl-python,162,23,2986,12,4897,18,7883

@@ -1,0 +1,10 @@
+https://github.com/fastapi/fastapi
+https://github.com/pallets/flask
+https://github.com/psf/requests     
+https://github.com/getsentry/responses
+https://github.com/spulec/freezegun
+https://github.com/strawberry-graphql/strawberry     
+https://github.com/pytest-dev/pytest-bdd
+https://github.com/boxed/mutmut 
+https://github.com/kiwicom/pytest-recording
+https://github.com/DeepL/deepl-python

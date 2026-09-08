@@ -1,0 +1,8 @@
+# Ambiente Virtual
+venv/
+.venv/
+__pycache__/
+
+# Dados gerados pelo script e clones temporários
+repositorios_temp/
+
