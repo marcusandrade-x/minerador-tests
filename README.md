@@ -20,11 +20,14 @@ Ferramenta de mineração de repositórios desenvolvida para extração de métr
    sudo dnf install cloc  # Fedora
 
 2. Crie e ative o ambiente virtual:
-    python -m venv venv
-    source venv/bin/activate
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
 
-3. Instale as dependências:
-    pip install requests
+4. Instale as dependências:
+   ```bash  
+   pip install requests
 
-4. Crie um arquivo candidatos.txt (ou adicione mais projetos a este arquivo) na raiz do projeto com as URLs dos repositórios do GitHub (uma por linha) e execute o minerador.
-    python analisador.py
+6. Crie um arquivo candidatos.txt (ou adicione mais projetos a este arquivo) na raiz do projeto com as URLs dos repositórios do GitHub (uma por linha) e execute o minerador.
+   ```bash
+   python analisador.py
